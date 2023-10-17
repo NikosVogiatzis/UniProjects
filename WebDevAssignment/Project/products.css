@@ -1,0 +1,66 @@
+/* BEGIN CODE HERE */
+  /* HEADER CSS */
+  .container-fluid{
+    height: 150px;
+    /* Η γραμμή αυτή εισάγει την γκρι γραμμή που διαχωρίζει header-footer με το υπολοιπο page */
+    /* Το ιδιο θέλουμε και για το products καρβουνης */
+    border-bottom: 1px solid lightgray;
+} 
+
+.d-flex{
+    margin-right: 50px;
+}
+.logo{
+    margin-left:50px;
+} 
+
+/* END HEADER CSS */
+
+/* FIRST FRAME*/
+
+#id1{
+    position:relative;
+    margin-top: 20px;
+    max-width: 1200px;
+}
+
+#id2{
+    margin-top: 40px;
+    position: relative;
+    max-width: 1200px;
+}
+/* END OF FIRST FRAME*/
+
+
+.container-md{
+    margin-top: 46px;
+    margin-bottom: 46px;
+}
+
+/* Η κλάση αυτή αναφαίρεται στο Add products label πάνω από το form και με το margin-bottom: 30px;
+    δίνω απόσταση από το πάνω frame */
+
+.h3_tag
+{
+    margin-bottom: 30px;
+}
+
+/* Στις γραμμές των label - input textfields εκανα κοινή κλάση για όλες ώστε να αφήνει ομοιόμορφα κενά
+   πάνω και κάτω */
+
+.form-group
+{
+    margin-top: 25px;
+    margin-bottom: 25px; 
+}
+
+/* FOOTER CSS */
+
+.card-body{
+    height: 100px;
+    text-align: center;
+}
+
+/* END FOOTER CSS */
+
+/* END CODE HERE */

@@ -1,0 +1,790 @@
+From = 15322, To = 15478
+Unordered Array: Word 'quaderni' exists [1] times
+Unordered Array: Word 'vha' exists [2] times
+Unordered Array: Word 'pero' exists [1] times
+Unordered Array: Word 'altra' exists [3] times
+Unordered Array: Word 'calandro' exists [1] times
+Unordered Array: Word 'consultarsi' exists [1] times
+Unordered Array: Word 'federici' exists [1] times
+Unordered Array: Word 'trevigiane' exists [1] times
+Unordered Array: Word 'virtu' exists [2] times
+Unordered Array: Word 'libricciuolo' exists [1] times
+Unordered Array: Word 'composto' exists [4] times
+Unordered Array: Word 'verso' exists [2] times
+Unordered Array: Word 'volte' exists [3] times
+Unordered Array: Word 'impresso' exists [7] times
+Unordered Array: Word 'secolo' exists [13] times
+Unordered Array: Word 'ristampato' exists [1] times
+Unordered Array: Word 'accademici' exists [1] times
+Unordered Array: Word 'crusca' exists [1] times
+Unordered Array: Word 'ammettono' exists [1] times
+Unordered Array: Word 'testi' exists [1] times
+Unordered Array: Word 'lingua' exists [7] times
+Unordered Array: Word 'vedasi' exists [2] times
+Unordered Array: Word 'gamba' exists [1] times
+Unordered Array: Word 'razzolini' exists [1] times
+Unordered Array: Word 'panzer' exists [2] times
+Unordered Array: Word 'brunet' exists [5] times
+Unordered Array: Word 'lechi' exists [1] times
+Unordered Array: Word 'plinio' exists [2] times
+Unordered Array: Word 'tradocta' exists [1] times
+Unordered Array: Word 'latina' exists [1] times
+Unordered Array: Word 'fiorentina' exists [1] times
+Unordered Array: Word 'christophoro' exists [1] times
+Unordered Array: Word 'laudino' exists [1] times
+Unordered Array: Word 'opus' exists [1] times
+Unordered Array: Word 'nicolai' exists [1] times
+Unordered Array: Word 'jansonis' exists [1] times
+Unordered Array: Word 'gallici' exists [1] times
+Unordered Array: Word 'imp' exists [1] times
+Unordered Array: Word 'salutis' exists [1] times
+Unordered Array: Word 'mcccclxxvi' exists [2] times
+Unordered Array: Word 'venetiis' exists [4] times
+Unordered Array: Word 'infoldiogene' exists [1] times
+Unordered Array: Word 'laertio' exists [1] times
+Unordered Array: Word 'incomincia' exists [1] times
+Unordered Array: Word 'philosophi' exists [1] times
+Unordered Array: Word 'impressum' exists [2] times
+Unordered Array: Word 'bernardinum' exists [1] times
+Unordered Array: Word 'celerium' exists [1] times
+Unordered Array: Word 'luere' exists [1] times
+Unordered Array: Word 'bibia' exists [2] times
+Unordered Array: Word 'volgare' exists [5] times
+Unordered Array: Word 'historiata' exists [1] times
+Unordered Array: Word 'mallermi' exists [2] times
+Unordered Array: Word 'venecia' exists [2] times
+Unordered Array: Word 'mcccclxxi' exists [1] times
+Unordered Array: Word 'kalende' exists [1] times
+Unordered Array: Word 'vindelino' exists [1] times
+Unordered Array: Word 'spira' exists [1] times
+Unordered Array: Word 'lin' exists [1] times
+Unordered Array: Word 'ediz' exists [2] times
+Unordered Array: Word 'stessa' exists [1] times
+Unordered Array: Word 'versione' exists [7] times
+Unordered Array: Word 'gabriel' exists [1] times
+Unordered Array: Word 'ottavio' exists [1] times
+Unordered Array: Word 'scotto' exists [1] times
+Unordered Array: Word 'modoetia' exists [1] times
+Unordered Array: Word 'joan' exists [1] times
+Unordered Array: Word 'vercellese' exists [1] times
+Unordered Array: Word 'ragazo' exists [1] times
+Unordered Array: Word 'monteferato' exists [1] times
+Unordered Array: Word 'instantia' exists [1] times
+Unordered Array: Word 'luchanthonio' exists [1] times
+Unordered Array: Word 'giunta' exists [1] times
+Unordered Array: Word 'ecclapidario' exists [1] times
+Unordered Array: Word 'teofrasto' exists [1] times
+Unordered Array: Word 'mandebille' exists [1] times
+Unordered Array: Word 'lapidaire' exists [1] times
+Unordered Array: Word 'italiana' exists [5] times
+Unordered Array: Word 'agricola' exists [1] times
+Unordered Array: Word 'puo' exists [1] times
+Unordered Array: Word 'mineralibus' exists [1] times
+Unordered Array: Word 'traduzione' exists [1] times
+Unordered Array: Word 'poema' exists [1] times
+Unordered Array: Word 'latino' exists [4] times
+Unordered Array: Word 'lapidum' exists [1] times
+Unordered Array: Word 'seu' exists [2] times
+Unordered Array: Word 'gemmis' exists [1] times
+Unordered Array: Word 'marbordio' exists [1] times
+Unordered Array: Word 'veterio' exists [1] times
+Unordered Array: Word 'rennes' exists [1] times
+Unordered Array: Word 'tradotto' exists [1] times
+Unordered Array: Word 'francese' exists [5] times
+Unordered Array: Word 'evao' exists [1] times
+Unordered Array: Word 'darabia' exists [1] times
+Unordered Array: Word 'medico' exists [1] times
+Unordered Array: Word 'laveva' exists [1] times
+Unordered Array: Word 'limperatore' exists [1] times
+Unordered Array: Word 'tiberio' exists [1] times
+Unordered Array: Word 'marbodio' exists [1] times
+Unordered Array: Word 'traduzioni' exists [1] times
+Unordered Array: Word 'prosa' exists [2] times
+Unordered Array: Word 'lapidario' exists [2] times
+Unordered Array: Word 'pietre' exists [1] times
+Unordered Array: Word 'preziose' exists [1] times
+Unordered Array: Word 'erbe' exists [1] times
+Unordered Array: Word 'animali' exists [1] times
+Unordered Array: Word 'lapidary' exists [1] times
+Unordered Array: Word 'vegezio' exists [1] times
+Unordered Array: Word 'frontino' exists [1] times
+Unordered Array: Word 'cornazzano' exists [1] times
+Unordered Array: Word 'crediamo' exists [1] times
+Unordered Array: Word 'piuttosto' exists [2] times
+Unordered Array: Word 'valturio' exists [1] times
+Unordered Array: Word 'defavoriti' exists [1] times
+Unordered Array: Word 'scienza' exists [1] times
+Unordered Array: Word 'epistles' exists [3] times
+Unordered Array: Word 'filelfo' exists [2] times
+Unordered Array: Word 'bibliofilo' exists [1] times
+Unordered Array: Word 'soli' exists [2] times
+Unordered Array: Word 'esemplari' exists [2] times
+Unordered Array: Word 'privately' exists [1] times
+Unordered Array: Word 'regretted' exists [1] times
+Unordered Array: Word 'gioachino' exists [1] times
+Unordered Array: Word 'prints' exists [1] times
+Unordered Array: Word 'reproducing' exists [1] times
+Unordered Array: Word 'ciecho' exists [1] times
+Unordered Array: Word 'dascoli' exists [1] times
+Unordered Array: Word 'magnus' exists [2] times
+Unordered Array: Word 'rhetorics' exists [1] times
+Unordered Array: Word 'crescentio' exists [1] times
+Unordered Array: Word 'cibaldone' exists [1] times
+Unordered Array: Word 'quadriregio' exists [1] times
+Unordered Array: Word 'aesop' exists [1] times
+Unordered Array: Word 'donato' exists [2] times
+Unordered Array: Word 'donatus' exists [1] times
+Unordered Array: Word 'italice' exists [1] times
+Unordered Array: Word 'impensis' exists [1] times
+Unordered Array: Word 'johannis' exists [1] times
+Unordered Array: Word 'baptistae' exists [1] times
+Unordered Array: Word 'sessa' exists [1] times
+Unordered Array: Word 'psalterio' exists [1] times
+Unordered Array: Word 'malermi' exists [1] times
+Unordered Array: Word 'psalms' exists [1] times
+Unordered Array: Word 'squarzafico' exists [1] times
+Unordered Array: Word 'justino' exists [1] times
+Unordered Array: Word 'diligentemente' exists [1] times
+Unordered Array: Word 'materna' exists [1] times
+Unordered Array: Word 'ale' exists [1] times
+Unordered Array: Word 'spesse' exists [1] times
+Unordered Array: Word 'johane' exists [2] times
+Unordered Array: Word 'colonia' exists [1] times
+Unordered Array: Word 'gheretze' exists [1] times
+Unordered Array: Word 'infolmarsilii' exists [1] times
+Unordered Array: Word 'ficini' exists [1] times
+Unordered Array: Word 'theologia' exists [1] times
+Unordered Array: Word 'platonica' exists [1] times
+
+From = 15322, To = 15478
+Ordered Array: Word 'quaderni' exists [1] times
+Ordered Array: Word 'vha' exists [2] times
+Ordered Array: Word 'pero' exists [1] times
+Ordered Array: Word 'altra' exists [3] times
+Ordered Array: Word 'calandro' exists [1] times
+Ordered Array: Word 'consultarsi' exists [1] times
+Ordered Array: Word 'federici' exists [1] times
+Ordered Array: Word 'trevigiane' exists [1] times
+Ordered Array: Word 'virtu' exists [2] times
+Ordered Array: Word 'libricciuolo' exists [1] times
+Ordered Array: Word 'composto' exists [4] times
+Ordered Array: Word 'verso' exists [2] times
+Ordered Array: Word 'volte' exists [3] times
+Ordered Array: Word 'impresso' exists [7] times
+Ordered Array: Word 'secolo' exists [13] times
+Ordered Array: Word 'ristampato' exists [1] times
+Ordered Array: Word 'accademici' exists [1] times
+Ordered Array: Word 'crusca' exists [1] times
+Ordered Array: Word 'ammettono' exists [1] times
+Ordered Array: Word 'testi' exists [1] times
+Ordered Array: Word 'lingua' exists [7] times
+Ordered Array: Word 'vedasi' exists [2] times
+Ordered Array: Word 'gamba' exists [1] times
+Ordered Array: Word 'razzolini' exists [1] times
+Ordered Array: Word 'panzer' exists [2] times
+Ordered Array: Word 'brunet' exists [5] times
+Ordered Array: Word 'lechi' exists [1] times
+Ordered Array: Word 'plinio' exists [2] times
+Ordered Array: Word 'tradocta' exists [1] times
+Ordered Array: Word 'latina' exists [1] times
+Ordered Array: Word 'fiorentina' exists [1] times
+Ordered Array: Word 'christophoro' exists [1] times
+Ordered Array: Word 'laudino' exists [1] times
+Ordered Array: Word 'opus' exists [1] times
+Ordered Array: Word 'nicolai' exists [1] times
+Ordered Array: Word 'jansonis' exists [1] times
+Ordered Array: Word 'gallici' exists [1] times
+Ordered Array: Word 'imp' exists [1] times
+Ordered Array: Word 'salutis' exists [1] times
+Ordered Array: Word 'mcccclxxvi' exists [2] times
+Ordered Array: Word 'venetiis' exists [4] times
+Ordered Array: Word 'infoldiogene' exists [1] times
+Ordered Array: Word 'laertio' exists [1] times
+Ordered Array: Word 'incomincia' exists [1] times
+Ordered Array: Word 'philosophi' exists [1] times
+Ordered Array: Word 'impressum' exists [2] times
+Ordered Array: Word 'bernardinum' exists [1] times
+Ordered Array: Word 'celerium' exists [1] times
+Ordered Array: Word 'luere' exists [1] times
+Ordered Array: Word 'bibia' exists [2] times
+Ordered Array: Word 'volgare' exists [5] times
+Ordered Array: Word 'historiata' exists [1] times
+Ordered Array: Word 'mallermi' exists [2] times
+Ordered Array: Word 'venecia' exists [2] times
+Ordered Array: Word 'mcccclxxi' exists [1] times
+Ordered Array: Word 'kalende' exists [1] times
+Ordered Array: Word 'vindelino' exists [1] times
+Ordered Array: Word 'spira' exists [1] times
+Ordered Array: Word 'lin' exists [1] times
+Ordered Array: Word 'ediz' exists [2] times
+Ordered Array: Word 'stessa' exists [1] times
+Ordered Array: Word 'versione' exists [7] times
+Ordered Array: Word 'gabriel' exists [1] times
+Ordered Array: Word 'ottavio' exists [1] times
+Ordered Array: Word 'scotto' exists [1] times
+Ordered Array: Word 'modoetia' exists [1] times
+Ordered Array: Word 'joan' exists [1] times
+Ordered Array: Word 'vercellese' exists [1] times
+Ordered Array: Word 'ragazo' exists [1] times
+Ordered Array: Word 'monteferato' exists [1] times
+Ordered Array: Word 'instantia' exists [1] times
+Ordered Array: Word 'luchanthonio' exists [1] times
+Ordered Array: Word 'giunta' exists [1] times
+Ordered Array: Word 'ecclapidario' exists [1] times
+Ordered Array: Word 'teofrasto' exists [1] times
+Ordered Array: Word 'mandebille' exists [1] times
+Ordered Array: Word 'lapidaire' exists [1] times
+Ordered Array: Word 'italiana' exists [5] times
+Ordered Array: Word 'agricola' exists [1] times
+Ordered Array: Word 'puo' exists [1] times
+Ordered Array: Word 'mineralibus' exists [1] times
+Ordered Array: Word 'traduzione' exists [1] times
+Ordered Array: Word 'poema' exists [1] times
+Ordered Array: Word 'latino' exists [4] times
+Ordered Array: Word 'lapidum' exists [1] times
+Ordered Array: Word 'seu' exists [2] times
+Ordered Array: Word 'gemmis' exists [1] times
+Ordered Array: Word 'marbordio' exists [1] times
+Ordered Array: Word 'veterio' exists [1] times
+Ordered Array: Word 'rennes' exists [1] times
+Ordered Array: Word 'tradotto' exists [1] times
+Ordered Array: Word 'francese' exists [5] times
+Ordered Array: Word 'evao' exists [1] times
+Ordered Array: Word 'darabia' exists [1] times
+Ordered Array: Word 'medico' exists [1] times
+Ordered Array: Word 'laveva' exists [1] times
+Ordered Array: Word 'limperatore' exists [1] times
+Ordered Array: Word 'tiberio' exists [1] times
+Ordered Array: Word 'marbodio' exists [1] times
+Ordered Array: Word 'traduzioni' exists [1] times
+Ordered Array: Word 'prosa' exists [2] times
+Ordered Array: Word 'lapidario' exists [2] times
+Ordered Array: Word 'pietre' exists [1] times
+Ordered Array: Word 'preziose' exists [1] times
+Ordered Array: Word 'erbe' exists [1] times
+Ordered Array: Word 'animali' exists [1] times
+Ordered Array: Word 'lapidary' exists [1] times
+Ordered Array: Word 'vegezio' exists [1] times
+Ordered Array: Word 'frontino' exists [1] times
+Ordered Array: Word 'cornazzano' exists [1] times
+Ordered Array: Word 'crediamo' exists [1] times
+Ordered Array: Word 'piuttosto' exists [2] times
+Ordered Array: Word 'valturio' exists [1] times
+Ordered Array: Word 'defavoriti' exists [1] times
+Ordered Array: Word 'scienza' exists [1] times
+Ordered Array: Word 'epistles' exists [3] times
+Ordered Array: Word 'filelfo' exists [2] times
+Ordered Array: Word 'bibliofilo' exists [1] times
+Ordered Array: Word 'soli' exists [2] times
+Ordered Array: Word 'esemplari' exists [2] times
+Ordered Array: Word 'privately' exists [1] times
+Ordered Array: Word 'regretted' exists [1] times
+Ordered Array: Word 'gioachino' exists [1] times
+Ordered Array: Word 'prints' exists [1] times
+Ordered Array: Word 'reproducing' exists [1] times
+Ordered Array: Word 'ciecho' exists [1] times
+Ordered Array: Word 'dascoli' exists [1] times
+Ordered Array: Word 'magnus' exists [2] times
+Ordered Array: Word 'rhetorics' exists [1] times
+Ordered Array: Word 'crescentio' exists [1] times
+Ordered Array: Word 'cibaldone' exists [1] times
+Ordered Array: Word 'quadriregio' exists [1] times
+Ordered Array: Word 'aesop' exists [1] times
+Ordered Array: Word 'donato' exists [2] times
+Ordered Array: Word 'donatus' exists [1] times
+Ordered Array: Word 'italice' exists [1] times
+Ordered Array: Word 'impensis' exists [1] times
+Ordered Array: Word 'johannis' exists [1] times
+Ordered Array: Word 'baptistae' exists [1] times
+Ordered Array: Word 'sessa' exists [1] times
+Ordered Array: Word 'psalterio' exists [1] times
+Ordered Array: Word 'malermi' exists [1] times
+Ordered Array: Word 'psalms' exists [1] times
+Ordered Array: Word 'squarzafico' exists [1] times
+Ordered Array: Word 'justino' exists [1] times
+Ordered Array: Word 'diligentemente' exists [1] times
+Ordered Array: Word 'materna' exists [1] times
+Ordered Array: Word 'ale' exists [1] times
+Ordered Array: Word 'spesse' exists [1] times
+Ordered Array: Word 'johane' exists [2] times
+Ordered Array: Word 'colonia' exists [1] times
+Ordered Array: Word 'gheretze' exists [1] times
+Ordered Array: Word 'infolmarsilii' exists [1] times
+Ordered Array: Word 'ficini' exists [1] times
+Ordered Array: Word 'theologia' exists [1] times
+Ordered Array: Word 'platonica' exists [1] times
+
+From = 15322, To = 15478
+BST: Word 'quaderni' exists [1] times
+BST: Word 'vha' exists [2] times
+BST: Word 'pero' exists [1] times
+BST: Word 'altra' exists [3] times
+BST: Word 'calandro' exists [1] times
+BST: Word 'consultarsi' exists [1] times
+BST: Word 'federici' exists [1] times
+BST: Word 'trevigiane' exists [1] times
+BST: Word 'virtu' exists [2] times
+BST: Word 'libricciuolo' exists [1] times
+BST: Word 'composto' exists [4] times
+BST: Word 'verso' exists [2] times
+BST: Word 'volte' exists [3] times
+BST: Word 'impresso' exists [7] times
+BST: Word 'secolo' exists [13] times
+BST: Word 'ristampato' exists [1] times
+BST: Word 'accademici' exists [1] times
+BST: Word 'crusca' exists [1] times
+BST: Word 'ammettono' exists [1] times
+BST: Word 'testi' exists [1] times
+BST: Word 'lingua' exists [7] times
+BST: Word 'vedasi' exists [2] times
+BST: Word 'gamba' exists [1] times
+BST: Word 'razzolini' exists [1] times
+BST: Word 'panzer' exists [2] times
+BST: Word 'brunet' exists [5] times
+BST: Word 'lechi' exists [1] times
+BST: Word 'plinio' exists [2] times
+BST: Word 'tradocta' exists [1] times
+BST: Word 'latina' exists [1] times
+BST: Word 'fiorentina' exists [1] times
+BST: Word 'christophoro' exists [1] times
+BST: Word 'laudino' exists [1] times
+BST: Word 'opus' exists [1] times
+BST: Word 'nicolai' exists [1] times
+BST: Word 'jansonis' exists [1] times
+BST: Word 'gallici' exists [1] times
+BST: Word 'imp' exists [1] times
+BST: Word 'salutis' exists [1] times
+BST: Word 'mcccclxxvi' exists [2] times
+BST: Word 'venetiis' exists [4] times
+BST: Word 'infoldiogene' exists [1] times
+BST: Word 'laertio' exists [1] times
+BST: Word 'incomincia' exists [1] times
+BST: Word 'philosophi' exists [1] times
+BST: Word 'impressum' exists [2] times
+BST: Word 'bernardinum' exists [1] times
+BST: Word 'celerium' exists [1] times
+BST: Word 'luere' exists [1] times
+BST: Word 'bibia' exists [2] times
+BST: Word 'volgare' exists [5] times
+BST: Word 'historiata' exists [1] times
+BST: Word 'mallermi' exists [2] times
+BST: Word 'venecia' exists [2] times
+BST: Word 'mcccclxxi' exists [1] times
+BST: Word 'kalende' exists [1] times
+BST: Word 'vindelino' exists [1] times
+BST: Word 'spira' exists [1] times
+BST: Word 'lin' exists [1] times
+BST: Word 'ediz' exists [2] times
+BST: Word 'stessa' exists [1] times
+BST: Word 'versione' exists [7] times
+BST: Word 'gabriel' exists [1] times
+BST: Word 'ottavio' exists [1] times
+BST: Word 'scotto' exists [1] times
+BST: Word 'modoetia' exists [1] times
+BST: Word 'joan' exists [1] times
+BST: Word 'vercellese' exists [1] times
+BST: Word 'ragazo' exists [1] times
+BST: Word 'monteferato' exists [1] times
+BST: Word 'instantia' exists [1] times
+BST: Word 'luchanthonio' exists [1] times
+BST: Word 'giunta' exists [1] times
+BST: Word 'ecclapidario' exists [1] times
+BST: Word 'teofrasto' exists [1] times
+BST: Word 'mandebille' exists [1] times
+BST: Word 'lapidaire' exists [1] times
+BST: Word 'italiana' exists [5] times
+BST: Word 'agricola' exists [1] times
+BST: Word 'puo' exists [1] times
+BST: Word 'mineralibus' exists [1] times
+BST: Word 'traduzione' exists [1] times
+BST: Word 'poema' exists [1] times
+BST: Word 'latino' exists [4] times
+BST: Word 'lapidum' exists [1] times
+BST: Word 'seu' exists [2] times
+BST: Word 'gemmis' exists [1] times
+BST: Word 'marbordio' exists [1] times
+BST: Word 'veterio' exists [1] times
+BST: Word 'rennes' exists [1] times
+BST: Word 'tradotto' exists [1] times
+BST: Word 'francese' exists [5] times
+BST: Word 'evao' exists [1] times
+BST: Word 'darabia' exists [1] times
+BST: Word 'medico' exists [1] times
+BST: Word 'laveva' exists [1] times
+BST: Word 'limperatore' exists [1] times
+BST: Word 'tiberio' exists [1] times
+BST: Word 'marbodio' exists [1] times
+BST: Word 'traduzioni' exists [1] times
+BST: Word 'prosa' exists [2] times
+BST: Word 'lapidario' exists [2] times
+BST: Word 'pietre' exists [1] times
+BST: Word 'preziose' exists [1] times
+BST: Word 'erbe' exists [1] times
+BST: Word 'animali' exists [1] times
+BST: Word 'lapidary' exists [1] times
+BST: Word 'vegezio' exists [1] times
+BST: Word 'frontino' exists [1] times
+BST: Word 'cornazzano' exists [1] times
+BST: Word 'crediamo' exists [1] times
+BST: Word 'piuttosto' exists [2] times
+BST: Word 'valturio' exists [1] times
+BST: Word 'defavoriti' exists [1] times
+BST: Word 'scienza' exists [1] times
+BST: Word 'epistles' exists [3] times
+BST: Word 'filelfo' exists [2] times
+BST: Word 'bibliofilo' exists [1] times
+BST: Word 'soli' exists [2] times
+BST: Word 'esemplari' exists [2] times
+BST: Word 'privately' exists [1] times
+BST: Word 'regretted' exists [1] times
+BST: Word 'gioachino' exists [1] times
+BST: Word 'prints' exists [1] times
+BST: Word 'reproducing' exists [1] times
+BST: Word 'ciecho' exists [1] times
+BST: Word 'dascoli' exists [1] times
+BST: Word 'magnus' exists [2] times
+BST: Word 'rhetorics' exists [1] times
+BST: Word 'crescentio' exists [1] times
+BST: Word 'cibaldone' exists [1] times
+BST: Word 'quadriregio' exists [1] times
+BST: Word 'aesop' exists [1] times
+BST: Word 'donato' exists [2] times
+BST: Word 'donatus' exists [1] times
+BST: Word 'italice' exists [1] times
+BST: Word 'impensis' exists [1] times
+BST: Word 'johannis' exists [1] times
+BST: Word 'baptistae' exists [1] times
+BST: Word 'sessa' exists [1] times
+BST: Word 'psalterio' exists [1] times
+BST: Word 'malermi' exists [1] times
+BST: Word 'psalms' exists [1] times
+BST: Word 'squarzafico' exists [1] times
+BST: Word 'justino' exists [1] times
+BST: Word 'diligentemente' exists [1] times
+BST: Word 'materna' exists [1] times
+BST: Word 'ale' exists [1] times
+BST: Word 'spesse' exists [1] times
+BST: Word 'johane' exists [2] times
+BST: Word 'colonia' exists [1] times
+BST: Word 'gheretze' exists [1] times
+BST: Word 'infolmarsilii' exists [1] times
+BST: Word 'ficini' exists [1] times
+BST: Word 'theologia' exists [1] times
+BST: Word 'platonica' exists [1] times
+
+From = 15322, To = 15478
+AVL: Word 'quaderni' exists [1] times
+AVL: Word 'vha' exists [2] times
+AVL: Word 'pero' exists [1] times
+AVL: Word 'altra' exists [3] times
+AVL: Word 'calandro' exists [1] times
+AVL: Word 'consultarsi' exists [1] times
+AVL: Word 'federici' exists [1] times
+AVL: Word 'trevigiane' exists [1] times
+AVL: Word 'virtu' exists [2] times
+AVL: Word 'libricciuolo' exists [1] times
+AVL: Word 'composto' exists [4] times
+AVL: Word 'verso' exists [2] times
+AVL: Word 'volte' exists [3] times
+AVL: Word 'impresso' exists [7] times
+AVL: Word 'secolo' exists [13] times
+AVL: Word 'ristampato' exists [1] times
+AVL: Word 'accademici' exists [1] times
+AVL: Word 'crusca' exists [1] times
+AVL: Word 'ammettono' exists [1] times
+AVL: Word 'testi' exists [1] times
+AVL: Word 'lingua' exists [7] times
+AVL: Word 'vedasi' exists [2] times
+AVL: Word 'gamba' exists [1] times
+AVL: Word 'razzolini' exists [1] times
+AVL: Word 'panzer' exists [2] times
+AVL: Word 'brunet' exists [5] times
+AVL: Word 'lechi' exists [1] times
+AVL: Word 'plinio' exists [2] times
+AVL: Word 'tradocta' exists [1] times
+AVL: Word 'latina' exists [1] times
+AVL: Word 'fiorentina' exists [1] times
+AVL: Word 'christophoro' exists [1] times
+AVL: Word 'laudino' exists [1] times
+AVL: Word 'opus' exists [1] times
+AVL: Word 'nicolai' exists [1] times
+AVL: Word 'jansonis' exists [1] times
+AVL: Word 'gallici' exists [1] times
+AVL: Word 'imp' exists [1] times
+AVL: Word 'salutis' exists [1] times
+AVL: Word 'mcccclxxvi' exists [2] times
+AVL: Word 'venetiis' exists [4] times
+AVL: Word 'infoldiogene' exists [1] times
+AVL: Word 'laertio' exists [1] times
+AVL: Word 'incomincia' exists [1] times
+AVL: Word 'philosophi' exists [1] times
+AVL: Word 'impressum' exists [2] times
+AVL: Word 'bernardinum' exists [1] times
+AVL: Word 'celerium' exists [1] times
+AVL: Word 'luere' exists [1] times
+AVL: Word 'bibia' exists [2] times
+AVL: Word 'volgare' exists [5] times
+AVL: Word 'historiata' exists [1] times
+AVL: Word 'mallermi' exists [2] times
+AVL: Word 'venecia' exists [2] times
+AVL: Word 'mcccclxxi' exists [1] times
+AVL: Word 'kalende' exists [1] times
+AVL: Word 'vindelino' exists [1] times
+AVL: Word 'spira' exists [1] times
+AVL: Word 'lin' exists [1] times
+AVL: Word 'ediz' exists [2] times
+AVL: Word 'stessa' exists [1] times
+AVL: Word 'versione' exists [7] times
+AVL: Word 'gabriel' exists [1] times
+AVL: Word 'ottavio' exists [1] times
+AVL: Word 'scotto' exists [1] times
+AVL: Word 'modoetia' exists [1] times
+AVL: Word 'joan' exists [1] times
+AVL: Word 'vercellese' exists [1] times
+AVL: Word 'ragazo' exists [1] times
+AVL: Word 'monteferato' exists [1] times
+AVL: Word 'instantia' exists [1] times
+AVL: Word 'luchanthonio' exists [1] times
+AVL: Word 'giunta' exists [1] times
+AVL: Word 'ecclapidario' exists [1] times
+AVL: Word 'teofrasto' exists [1] times
+AVL: Word 'mandebille' exists [1] times
+AVL: Word 'lapidaire' exists [1] times
+AVL: Word 'italiana' exists [5] times
+AVL: Word 'agricola' exists [1] times
+AVL: Word 'puo' exists [1] times
+AVL: Word 'mineralibus' exists [1] times
+AVL: Word 'traduzione' exists [1] times
+AVL: Word 'poema' exists [1] times
+AVL: Word 'latino' exists [4] times
+AVL: Word 'lapidum' exists [1] times
+AVL: Word 'seu' exists [2] times
+AVL: Word 'gemmis' exists [1] times
+AVL: Word 'marbordio' exists [1] times
+AVL: Word 'veterio' exists [1] times
+AVL: Word 'rennes' exists [1] times
+AVL: Word 'tradotto' exists [1] times
+AVL: Word 'francese' exists [5] times
+AVL: Word 'evao' exists [1] times
+AVL: Word 'darabia' exists [1] times
+AVL: Word 'medico' exists [1] times
+AVL: Word 'laveva' exists [1] times
+AVL: Word 'limperatore' exists [1] times
+AVL: Word 'tiberio' exists [1] times
+AVL: Word 'marbodio' exists [1] times
+AVL: Word 'traduzioni' exists [1] times
+AVL: Word 'prosa' exists [2] times
+AVL: Word 'lapidario' exists [2] times
+AVL: Word 'pietre' exists [1] times
+AVL: Word 'preziose' exists [1] times
+AVL: Word 'erbe' exists [1] times
+AVL: Word 'animali' exists [1] times
+AVL: Word 'lapidary' exists [1] times
+AVL: Word 'vegezio' exists [1] times
+AVL: Word 'frontino' exists [1] times
+AVL: Word 'cornazzano' exists [1] times
+AVL: Word 'crediamo' exists [1] times
+AVL: Word 'piuttosto' exists [2] times
+AVL: Word 'valturio' exists [1] times
+AVL: Word 'defavoriti' exists [1] times
+AVL: Word 'scienza' exists [1] times
+AVL: Word 'epistles' exists [3] times
+AVL: Word 'filelfo' exists [2] times
+AVL: Word 'bibliofilo' exists [1] times
+AVL: Word 'soli' exists [2] times
+AVL: Word 'esemplari' exists [2] times
+AVL: Word 'privately' exists [1] times
+AVL: Word 'regretted' exists [1] times
+AVL: Word 'gioachino' exists [1] times
+AVL: Word 'prints' exists [1] times
+AVL: Word 'reproducing' exists [1] times
+AVL: Word 'ciecho' exists [1] times
+AVL: Word 'dascoli' exists [1] times
+AVL: Word 'magnus' exists [2] times
+AVL: Word 'rhetorics' exists [1] times
+AVL: Word 'crescentio' exists [1] times
+AVL: Word 'cibaldone' exists [1] times
+AVL: Word 'quadriregio' exists [1] times
+AVL: Word 'aesop' exists [1] times
+AVL: Word 'donato' exists [2] times
+AVL: Word 'donatus' exists [1] times
+AVL: Word 'italice' exists [1] times
+AVL: Word 'impensis' exists [1] times
+AVL: Word 'johannis' exists [1] times
+AVL: Word 'baptistae' exists [1] times
+AVL: Word 'sessa' exists [1] times
+AVL: Word 'psalterio' exists [1] times
+AVL: Word 'malermi' exists [1] times
+AVL: Word 'psalms' exists [1] times
+AVL: Word 'squarzafico' exists [1] times
+AVL: Word 'justino' exists [1] times
+AVL: Word 'diligentemente' exists [1] times
+AVL: Word 'materna' exists [1] times
+AVL: Word 'ale' exists [1] times
+AVL: Word 'spesse' exists [1] times
+AVL: Word 'johane' exists [2] times
+AVL: Word 'colonia' exists [1] times
+AVL: Word 'gheretze' exists [1] times
+AVL: Word 'infolmarsilii' exists [1] times
+AVL: Word 'ficini' exists [1] times
+AVL: Word 'theologia' exists [0] times
+AVL: Word 'platonica' exists [1] times
+
+From = 15322, To = 15478
+Hash Table: Word 'quaderni' exists [139753940844545] times
+Hash Table: Word 'vha' exists [139753940844546] times
+Hash Table: Word 'pero' exists [139753940844545] times
+Hash Table: Word 'altra' exists [139753940844547] times
+Hash Table: Word 'calandro' exists [139753940844545] times
+Hash Table: Word 'consultarsi' exists [139753940844545] times
+Hash Table: Word 'federici' exists [139753940844545] times
+Hash Table: Word 'trevigiane' exists [139753940844545] times
+Hash Table: Word 'virtu' exists [139753940844546] times
+Hash Table: Word 'libricciuolo' exists [139753940844545] times
+Hash Table: Word 'composto' exists [139753940844548] times
+Hash Table: Word 'verso' exists [139753940844546] times
+Hash Table: Word 'volte' exists [139753940844547] times
+Hash Table: Word 'impresso' exists [139753940844551] times
+Hash Table: Word 'secolo' exists [139753940844557] times
+Hash Table: Word 'ristampato' exists [139753940844545] times
+Hash Table: Word 'accademici' exists [139753940844545] times
+Hash Table: Word 'crusca' exists [139753940844545] times
+Hash Table: Word 'ammettono' exists [139753940844545] times
+Hash Table: Word 'testi' exists [139753940844545] times
+Hash Table: Word 'lingua' exists [139753940844551] times
+Hash Table: Word 'vedasi' exists [139753940844546] times
+Hash Table: Word 'gamba' exists [139753940844545] times
+Hash Table: Word 'razzolini' exists [139753940844545] times
+Hash Table: Word 'panzer' exists [139753940844546] times
+Hash Table: Word 'brunet' exists [139753940844549] times
+Hash Table: Word 'lechi' exists [139753940844545] times
+Hash Table: Word 'plinio' exists [139753940844546] times
+Hash Table: Word 'tradocta' exists [139753940844545] times
+Hash Table: Word 'latina' exists [139753940844545] times
+Hash Table: Word 'fiorentina' exists [139753940844545] times
+Hash Table: Word 'christophoro' exists [139753940844545] times
+Hash Table: Word 'laudino' exists [139753940844545] times
+Hash Table: Word 'opus' exists [139753940844545] times
+Hash Table: Word 'nicolai' exists [139753940844545] times
+Hash Table: Word 'jansonis' exists [139753940844545] times
+Hash Table: Word 'gallici' exists [139753940844545] times
+Hash Table: Word 'imp' exists [139753940844545] times
+Hash Table: Word 'salutis' exists [139753940844545] times
+Hash Table: Word 'mcccclxxvi' exists [139753940844546] times
+Hash Table: Word 'venetiis' exists [139753940844548] times
+Hash Table: Word 'infoldiogene' exists [139753940844545] times
+Hash Table: Word 'laertio' exists [139753940844545] times
+Hash Table: Word 'incomincia' exists [139753940844545] times
+Hash Table: Word 'philosophi' exists [139753940844545] times
+Hash Table: Word 'impressum' exists [139753940844546] times
+Hash Table: Word 'bernardinum' exists [139753940844545] times
+Hash Table: Word 'celerium' exists [139753940844545] times
+Hash Table: Word 'luere' exists [139753940844545] times
+Hash Table: Word 'bibia' exists [139753940844546] times
+Hash Table: Word 'volgare' exists [139753940844549] times
+Hash Table: Word 'historiata' exists [139753940844545] times
+Hash Table: Word 'mallermi' exists [139753940844546] times
+Hash Table: Word 'venecia' exists [139753940844546] times
+Hash Table: Word 'mcccclxxi' exists [139753940844545] times
+Hash Table: Word 'kalende' exists [139753940844545] times
+Hash Table: Word 'vindelino' exists [139753940844545] times
+Hash Table: Word 'spira' exists [139753940844545] times
+Hash Table: Word 'lin' exists [139753940844545] times
+Hash Table: Word 'ediz' exists [139753940844546] times
+Hash Table: Word 'stessa' exists [139753940844545] times
+Hash Table: Word 'versione' exists [139753940844551] times
+Hash Table: Word 'gabriel' exists [139753940844545] times
+Hash Table: Word 'ottavio' exists [139753940844545] times
+Hash Table: Word 'scotto' exists [139753940844545] times
+Hash Table: Word 'modoetia' exists [139753940844545] times
+Hash Table: Word 'joan' exists [139753940844545] times
+Hash Table: Word 'vercellese' exists [139753940844545] times
+Hash Table: Word 'ragazo' exists [139753940844545] times
+Hash Table: Word 'monteferato' exists [139753940844545] times
+Hash Table: Word 'instantia' exists [139753940844545] times
+Hash Table: Word 'luchanthonio' exists [139753940844545] times
+Hash Table: Word 'giunta' exists [139753940844545] times
+Hash Table: Word 'ecclapidario' exists [139753940844545] times
+Hash Table: Word 'teofrasto' exists [139753940844545] times
+Hash Table: Word 'mandebille' exists [139753940844545] times
+Hash Table: Word 'lapidaire' exists [139753940844545] times
+Hash Table: Word 'italiana' exists [139753940844549] times
+Hash Table: Word 'agricola' exists [139753940844545] times
+Hash Table: Word 'puo' exists [139753940844545] times
+Hash Table: Word 'mineralibus' exists [139753940844545] times
+Hash Table: Word 'traduzione' exists [139753940844545] times
+Hash Table: Word 'poema' exists [139753940844545] times
+Hash Table: Word 'latino' exists [139753940844548] times
+Hash Table: Word 'lapidum' exists [139753940844545] times
+Hash Table: Word 'seu' exists [139753940844546] times
+Hash Table: Word 'gemmis' exists [139753940844545] times
+Hash Table: Word 'marbordio' exists [139753940844545] times
+Hash Table: Word 'veterio' exists [139753940844545] times
+Hash Table: Word 'rennes' exists [139753940844545] times
+Hash Table: Word 'tradotto' exists [139753940844545] times
+Hash Table: Word 'francese' exists [139753940844549] times
+Hash Table: Word 'evao' exists [139753940844545] times
+Hash Table: Word 'darabia' exists [139753940844545] times
+Hash Table: Word 'medico' exists [139753940844545] times
+Hash Table: Word 'laveva' exists [139753940844545] times
+Hash Table: Word 'limperatore' exists [139753940844545] times
+Hash Table: Word 'tiberio' exists [139753940844545] times
+Hash Table: Word 'marbodio' exists [139753940844545] times
+Hash Table: Word 'traduzioni' exists [139753940844545] times
+Hash Table: Word 'prosa' exists [139753940844546] times
+Hash Table: Word 'lapidario' exists [139753940844546] times
+Hash Table: Word 'pietre' exists [139753940844545] times
+Hash Table: Word 'preziose' exists [139753940844545] times
+Hash Table: Word 'erbe' exists [139753940844545] times
+Hash Table: Word 'animali' exists [139753940844545] times
+Hash Table: Word 'lapidary' exists [139753940844545] times
+Hash Table: Word 'vegezio' exists [139753940844545] times
+Hash Table: Word 'frontino' exists [139753940844545] times
+Hash Table: Word 'cornazzano' exists [139753940844545] times
+Hash Table: Word 'crediamo' exists [139753940844545] times
+Hash Table: Word 'piuttosto' exists [139753940844546] times
+Hash Table: Word 'valturio' exists [139753940844545] times
+Hash Table: Word 'defavoriti' exists [139753940844545] times
+Hash Table: Word 'scienza' exists [139753940844545] times
+Hash Table: Word 'epistles' exists [139753940844547] times
+Hash Table: Word 'filelfo' exists [139753940844546] times
+Hash Table: Word 'bibliofilo' exists [139753940844545] times
+Hash Table: Word 'soli' exists [139753940844546] times
+Hash Table: Word 'esemplari' exists [139753940844546] times
+Hash Table: Word 'privately' exists [139753940844545] times
+Hash Table: Word 'regretted' exists [139753940844545] times
+Hash Table: Word 'gioachino' exists [139753940844545] times
+Hash Table: Word 'prints' exists [139753940844545] times
+Hash Table: Word 'reproducing' exists [139753940844545] times
+Hash Table: Word 'ciecho' exists [139753940844545] times
+Hash Table: Word 'dascoli' exists [139753940844545] times
+Hash Table: Word 'magnus' exists [139753940844546] times
+Hash Table: Word 'rhetorics' exists [139753940844545] times
+Hash Table: Word 'crescentio' exists [139753940844545] times
+Hash Table: Word 'cibaldone' exists [139753940844545] times
+Hash Table: Word 'quadriregio' exists [139753940844545] times
+Hash Table: Word 'aesop' exists [139753940844545] times
+Hash Table: Word 'donato' exists [139753940844546] times
+Hash Table: Word 'donatus' exists [139753940844545] times
+Hash Table: Word 'italice' exists [139753940844545] times
+Hash Table: Word 'impensis' exists [139753940844545] times
+Hash Table: Word 'johannis' exists [139753940844545] times
+Hash Table: Word 'baptistae' exists [139753940844545] times
+Hash Table: Word 'sessa' exists [139753940844545] times
+Hash Table: Word 'psalterio' exists [139753940844545] times
+Hash Table: Word 'malermi' exists [139753940844545] times
+Hash Table: Word 'psalms' exists [139753940844545] times
+Hash Table: Word 'squarzafico' exists [139753940844545] times
+Hash Table: Word 'justino' exists [139753940844545] times
+Hash Table: Word 'diligentemente' exists [139753940844545] times
+Hash Table: Word 'materna' exists [139753940844545] times
+Hash Table: Word 'ale' exists [139753940844545] times
+Hash Table: Word 'spesse' exists [139753940844545] times
+Hash Table: Word 'johane' exists [139753940844546] times
+Hash Table: Word 'colonia' exists [139753940844545] times
+Hash Table: Word 'gheretze' exists [139753940844545] times
+Hash Table: Word 'infolmarsilii' exists [139753940844545] times
+Hash Table: Word 'ficini' exists [139753940844545] times
+Hash Table: Word 'theologia' exists [139753940844545] times
+Hash Table: Word 'platonica' exists [139753940844545] times
+

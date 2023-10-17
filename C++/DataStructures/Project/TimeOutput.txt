@@ -1,0 +1,15 @@
+ (*) Unordered Array -> Insert: 25.1017 seconds
+ (*) Unordered Array -> Search: 0.030241 seconds
+
+ (*) Ordered Array -> Insert: 48.2445 seconds
+ (*) Ordered Array -> Search: 0.001114 seconds
+
+ (*) BST -> Insert: 0.623679 seconds
+ (*) BST -> Search: 0.000968 seconds
+
+ (*) AVL -> Insert: 1.00831 seconds
+ (*) AVL -> Search: 0.001075 seconds
+
+ (*) Hash -> Insert: 0.460332 seconds
+ (*) Hash -> Search: 0.000792 seconds
+
